@@ -3,9 +3,9 @@
 <img style="text-align: center;" src="https://media.tenor.com/6EKxfFHNfvIAAAAC/satou-matsuzaka.gif">
   
 # Hi, I’m @Kiriyako
-I’m interested in anime, manga, science, etc.
-I’m currently learning JavaScript.
+I’m interested in anime, manga, math, languages (irl one), history.
+Actively learning Next JS.
 
-Feel free to add me on Discord: Kiriyako#8551 ^-^
+Feel free to add me on Discord: kiriyako ^-^
   
 </div> 
