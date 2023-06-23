@@ -4,7 +4,7 @@
   
 # Hi, I’m @Kiriyako
 I’m interested in anime, manga, math, languages (irl one) and history. <br>
-Actively learning Next JS.
+Actively learning Next.js 
 
 Feel free to add me on Discord: kiriyako ^-^
   
