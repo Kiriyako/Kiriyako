@@ -1,6 +1,6 @@
 <div align="center">
 
-<img style="text-align: center;" src="https://media.tenor.com/6EKxfFHNfvIAAAAC/satou-matsuzaka.gif">
+<img style="text-align: center;" src="https://media.tenor.com/Due57A-RrqcAAAAC/ai-happy.gif">
   
 # Hi, I’m @Kiriyako
 I’m interested in anime, manga, math, languages (irl one) and history. <br>
