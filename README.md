@@ -1,6 +1,6 @@
 <div align="center">
 
-<img style="text-align: center;" src="https://media.tenor.com/Due57A-RrqcAAAAC/ai-happy.gif">
+<img style="text-align: center;" src="https://media.tenor.com/EDavV_gt4DYAAAAC/bandori-bang-dream.gif">
   
 # Hi, I’m @Kiriyako
 10th grader.
